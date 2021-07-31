@@ -3,7 +3,7 @@
 ![mail](https://img.shields.io/badge/Mail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)
 ![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white) -->
 
-## I'm a Golang Developer
+### I'm a Golang Developer
 
 + 📖 I’m currently learning everything
 + 🐱 I have a cat and a dog 🐶
@@ -11,12 +11,12 @@
 
 ---
 
-## Top Languages:
+### Top Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s1m0n21&layout=compact)
 
 ---
 
-## Languages and Tools:
+### Languages and Tools:
 
 ![go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&message=myfavorite)
 ![rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
@@ -50,7 +50,7 @@
 
 ---
 
-## Cryptocurrency:
+### Cryptocurrency:
 
 ![fil](https://img.shields.io/badge/Filecoin-00C6CE?style=for-the-badge)
 ![eth](https://img.shields.io/badge/Ethereum-6285F4?style=for-the-badge&logo=ethereum&logoColor=white)
@@ -58,7 +58,7 @@
 
 ---
 
-## Gaming:
+### Gaming:
 
 ![playstation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
 ![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
