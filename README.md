@@ -65,6 +65,8 @@
 
 ### ⚡️ Recent Activity
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#2](https://github.com/s1m0n21/substrate/pull/2) in [s1m0n21/substrate](https://github.com/s1m0n21/substrate)
+2. ❗️ Opened issue [#1](https://github.com/s1m0n21/substrate/issues/1) in [s1m0n21/substrate](https://github.com/s1m0n21/substrate)
 <!--END_SECTION:activity-->
 
 ---
