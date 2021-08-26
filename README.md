@@ -2,9 +2,7 @@
 
 ### I'm a Golang Developer 👨🏻‍💻
 
-+ 📖 I’m currently learning everything
-+ 🐱 I have a cat and a dog 🐶
-+ 📮 Contact me: `s1m0n21@hotmail.com`
+📮 Contact me: `s1m0n21@hotmail.com`
 
 ---
 
