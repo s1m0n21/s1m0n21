@@ -59,12 +59,10 @@
 ![playstation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
 ![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 
----
+<!-- ---
 
-### ⚡️ Recent Activity
+### ⚡️ Recent Activity -->
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/s1m0n21/substrate/pull/2) in [s1m0n21/substrate](https://github.com/s1m0n21/substrate)
-2. ❗️ Opened issue [#1](https://github.com/s1m0n21/substrate/issues/1) in [s1m0n21/substrate](https://github.com/s1m0n21/substrate)
 <!--END_SECTION:activity-->
 
 ---
