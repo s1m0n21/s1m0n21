@@ -2,7 +2,7 @@
 
 ### I'm a Golang Developer 👨🏻‍💻
 
-📮 Contact me: `s1m0n21@hotmail.com`
+📮 Contact me: `me@s1m0n21.com`
 
 ---
 
